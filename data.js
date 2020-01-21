@@ -16,7 +16,7 @@ userdata1:
 	
 	userdata2:
 	{
-		name:"vipul pandey",
+		name:"Surya",
 		email:"vipul10310@gmail.com",
 		pass:"vipul10310@gmail",
 	
@@ -24,7 +24,7 @@ userdata1:
 	
 	userdata3:
 	{
-		name:"vipul pandey",
+		name:"vipul",
 		email:"vipul10310@gmail.com",
 		pass:"vipul10310@gmail",
 	
