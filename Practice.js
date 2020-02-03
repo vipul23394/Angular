@@ -24,7 +24,7 @@ describe('qaclick', function() {
 	  
 	  using(d.datadriven, function (data, description) {
 		  
-		  it('Automate website'+description, function () {
+		  it('Automate website:' +description, function () {
 			 
 				element(by.name("name")).sendKeys(data.name);
 				element(by.name("email")).sendKeys(data.email);
